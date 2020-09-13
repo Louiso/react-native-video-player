@@ -1,0 +1,41 @@
+{
+  "author": {
+    "name": "Luis Sullca Huaracca<luis.sullca.h@uni.pe>"
+  },
+  "bugs": {
+    "url": "https://github.com/louiso/react-native-video-player/issues"
+  },
+  "dependencies": {
+  },
+  "description": "💦",
+  "devDependencies": {
+    "prettier": "^2.1.1",
+    "react": "16.13.1",
+    "react-native": "0.63.2"
+  },
+  "files": [
+    "src"
+  ],
+  "homepage": "https://github.com/louiso/react-native-video-player/blob/master/README.md",
+  "keywords": [
+    "react-native",
+    "video",
+    "android",
+    "ios",
+    "react-native-video",
+    "react-native-video-player",
+    "component"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "react-native-video-player",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louiso/react-native-video-player.git"
+  },
+  "version": "0.0.1"
+}
